@@ -13,20 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World 👋😁
+### Hello World 👋 😁
 
-Hi, I'm Guanghui(Derek) Wang, a Full Stack Developer 🚀 from China. Currently, I'm working in VMware Shanghai branch 🙍🏽‍♂️ [@VMware](https://github.com/vmware). I'm passionate about Angular, React, Vue, Nodejs, Flutter, RN Development. Besides programming👨🏻‍💻, I enjoy many kinds of sports (🏀🏊‍♂️🏸).
+I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm working in VMware Shanghai branch.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" /> -->
 
-- 💻 I’m currently working on Angular, Vue, React, Nodejs, Graphql, MongoDB, etc.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
+- 💻 I'm currently working on Angular, Vue, React, Nodejs, Graphql, MongoDB, etc.
 - 🌱 I’m currently learning GraphQL, Angular.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
 - 💬 Ask me about anything, I am happy to help.
 - 📝 [Resume](https://github.com/wghglory/guanghui.resume)
-- 📫 How to reach me: [guanghui-wang@foxmail.com](mailto:guanghui-wang@foxmail.com)
-
-  [![LinkedIn Badge](https://img.shields.io/badge/-guanghuiwang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guanghuiwang)](https://www.linkedin.com/in/guanghuiwang/) [![Gmail Badge](https://img.shields.io/badge/-derekghw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derekghw@gmail.com)](mailto:derekghw@gmail.com)
+- 🏀 🏊‍♂️ 🏸
+- 📫 How to reach me: [![QQ Badge](https://img.shields.io/badge/-747776580@qq.com-0271BF?style=flat-square&logo=QQ&logoColor=white&link=mailto:747776580@qq.com)](mailto:747776580@qq.com) [![Gmail Badge](https://img.shields.io/badge/-derekghw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derekghw@gmail.com)](mailto:derekghw@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-guanghuiwang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guanghuiwang)](https://www.linkedin.com/in/guanghuiwang/)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@wghglory-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wghglory)](https://twitter.com/wghglory) [![Instagram Badge](https://img.shields.io/badge/-@wghglory-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/wghglory/)](https://www.instagram.com/wghglory/) -->
 <!-- - 👯 I’m looking to collaborate on [Gitbook](https://github.com/wghglory/gitbook) 🤝; -->
@@ -41,15 +40,13 @@ Hi, I'm Guanghui(Derek) Wang, a Full Stack Developer 🚀 from China. Currently,
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/hritik5102)
 
-### 🏆 Github Status
+### Github Status 🏆
 
 ![Derek's github stats](https://github-readme-stats.vercel.app/api?username=wghglory&hide=contribs&show_icons=true&hide_border=true&count_private=true&theme=vue)
 
-<a href="https://github.com/wghglory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wghglory" />
-</a>
+![Derek's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wghglory&theme=vue)
 
-### 📊 Weekly Development Breakdown
+### Weekly Development Breakdown 📊
 
 <!--START_SECTION:waka-->
 
@@ -101,8 +98,6 @@ Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░
   <br/>
   Thanks for stopping by 😁<br/>
 </p> -->
-
-⭐️ From [wghglory](https://github.com/wghglory)
 
 <p align="center">
   Visitor count<br>
