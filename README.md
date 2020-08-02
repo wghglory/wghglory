@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Guanghui(Derek) Wang, a Full Stack Developer 🚀 from China. Currently, I'm working in VMware Shanghai branch 🙍🏽‍♂️ [@VMware](https://github.com/vmware). I'm passionate about Angular, React, Vue, Nodejs, Flutter, RN Development. Besides programming👨🏻‍💻, I enjoy many kinds of sports (🏀🏊‍♂️🏸).
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
 
 - 💻 I’m currently working on Angular, Vue, React, Nodejs, Graphql, MongoDB, etc.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
