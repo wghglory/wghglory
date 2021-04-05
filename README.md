@@ -20,7 +20,7 @@ I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm work
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" /> -->
 
 - 💻 I'm currently working on Angular, Vue, React, Nodejs, Graphql, MongoDB, etc.
-- 🌱 I’m currently learning GraphQL, Angular.
+- 🌱 I’m currently learning React, Vue, Angular. I really like Vite.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
 - 💬 Ask me about anything, I am happy to help.
 - 📝 [Resume](https://github.com/wghglory/guanghui.resume)
