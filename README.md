@@ -25,7 +25,7 @@ I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm work
 - 💬 Ask me about anything, I am happy to help.
 - 📝 [Resume](https://github.com/wghglory/guanghui.resume)
 - 🏀 🏊‍♂️ 🏸
-- 📫 How to reach me: [![QQ Badge](https://img.shields.io/badge/-747776580@qq.com-0271BF?style=flat-square&logo=QQ&logoColor=white&link=mailto:747776580@qq.com)](mailto:747776580@qq.com) [![Gmail Badge](https://img.shields.io/badge/-derekghw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derekghw@gmail.com)](mailto:derekghw@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-guanghuiwang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guanghuiwang)](https://www.linkedin.com/in/guanghuiwang/)
+- 📫 How to reach me: [![QQ Badge](https://img.shields.io/badge/-747776580@qq.com-0271BF?style=flat-square&logo=QQ&logoColor=white&link=mailto:747776580@qq.com)](mailto:747776580@qq.com) [![LinkedIn Badge](https://img.shields.io/badge/-guanghuiwang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guanghuiwang)](https://www.linkedin.com/in/guanghuiwang/)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@wghglory-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wghglory)](https://twitter.com/wghglory) [![Instagram Badge](https://img.shields.io/badge/-@wghglory-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/wghglory/)](https://www.instagram.com/wghglory/) -->
 <!-- - 👯 I’m looking to collaborate on [Gitbook](https://github.com/wghglory/gitbook) 🤝; -->
@@ -36,26 +36,13 @@ I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm work
 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js) ![Flutter](https://img.shields.io/badge/-Flutter-Black?style=flat&logo=flutter) ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=flat&logo=typescript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap) 
 
-![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode) ![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![Mongodb](https://img.shields.io/badge/-Mongodb-Black?style=flat&logo=mongodb)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/hritik5102)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![Mongodb](https://img.shields.io/badge/-Mongodb-Black?style=flat&logo=mongodb)
 
 ### Github Status 🏆
 
 ![Derek's github stats](https://github-readme-stats.vercel.app/api?username=wghglory&hide=contribs&show_icons=true&hide_border=true&count_private=true&theme=vue)
 
 ![Derek's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wghglory&theme=vue)
-
-### Weekly Development Breakdown 📊
-
-<!--START_SECTION:waka-->
-
-```text
-Angular     4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69
-React       2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32
-Vue         1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61
-```
 
 <!-- Contact icons
 <a href="https://www.linkedin.com/in/guanghuiwang/">
