@@ -24,7 +24,7 @@ I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm work
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
 - 💬 Ask me about anything, I am happy to help.
 - 📝 [Resume](https://github.com/wghglory/guanghui.resume)
-- 🏀 🏊‍♂️ 🏸
+- 🏀 🏊‍♂️ 🏸 🏓
 - 📫 How to reach me: [![QQ Badge](https://img.shields.io/badge/-747776580@qq.com-0271BF?style=flat-square&logo=QQ&logoColor=white&link=mailto:747776580@qq.com)](mailto:747776580@qq.com) [![LinkedIn Badge](https://img.shields.io/badge/-guanghuiwang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guanghuiwang)](https://www.linkedin.com/in/guanghuiwang/)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@wghglory-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wghglory)](https://twitter.com/wghglory) [![Instagram Badge](https://img.shields.io/badge/-@wghglory-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/wghglory/)](https://www.instagram.com/wghglory/) -->
@@ -42,7 +42,7 @@ I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm work
 
 ![Derek's github stats](https://github-readme-stats.vercel.app/api?username=wghglory&hide=contribs&show_icons=true&hide_border=true&count_private=true&theme=vue)
 
-![Derek's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wghglory&theme=vue)
+<!-- ![Derek's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wghglory&theme=vue) -->
 
 <!-- Contact icons
 <a href="https://www.linkedin.com/in/guanghuiwang/">
@@ -86,7 +86,7 @@ I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm work
   Thanks for stopping by 😁<br/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wghglory/count.svg" />
-</p>
+</p> -->
