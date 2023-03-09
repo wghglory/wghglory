@@ -23,6 +23,7 @@ I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm work
 - 🌱 I’m currently learning React, Vue, Angular. I really like Vite.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
 - 💬 Ask me about anything, I am happy to help.
+- 🖼 [My Website](https://derekw.vercel.app/)
 - 📝 [Resume](https://github.com/wghglory/guanghui.resume)
 - 🏀 🏊‍♂️ 🏸 🏓
 - 📫 How to reach me: [![QQ Badge](https://img.shields.io/badge/-747776580@qq.com-0271BF?style=flat-square&logo=QQ&logoColor=white&link=mailto:747776580@qq.com)](mailto:747776580@qq.com) [![LinkedIn Badge](https://img.shields.io/badge/-guanghuiwang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guanghuiwang)](https://www.linkedin.com/in/guanghuiwang/)
