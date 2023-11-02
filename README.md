@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### Hello World 👋 😁
 
-I'm Guanghui(Derek) Wang, a Full Stack Developer from China. Currently, I'm working in VMware Shanghai branch.
-
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" /> -->
 
 - 💻 I'm currently working on Angular, Vue, React, Nodejs, Graphql, MongoDB, etc.
