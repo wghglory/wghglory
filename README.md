@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" /> -->
 
 - 💻 I'm currently working on Angular, Vue, React, Nodejs, Graphql, MongoDB, etc.
-- 🌱 I’m currently learning React, Vue, Angular. I really like Vite.
+- 🌱 Recently, I really like Vite.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣.
 - 💬 Ask me about anything, I am happy to help.
 - 🖼 [My Website](https://derekw.vercel.app/)
